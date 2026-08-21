@@ -1,2 +1,3 @@
 # agri_scout
-Officially own by Nadun Manthilaka
+Officially own by The Crew of Xcellence
+
